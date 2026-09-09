@@ -16,4 +16,12 @@ My leetcode Progress
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayanksinghbro/LeetCode/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mayanksinghbro/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mayanksinghbro/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

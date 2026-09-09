@@ -9,17 +9,17 @@ class MinStack {
     }
     
     public void push(int value) {
-        stack.push(value);
+        stack.add(value);
         
         if(ministack.isEmpty()){
-            ministack.push(value);
+            ministack.add(value);
         }
         else{
             if(value<ministack.peek()){
-                ministack.push(value);
+                ministack.add(value);
             }
             else{
-                ministack.push(ministack.peek());
+                ministack.add(ministack.peek());
             }
         }
     }

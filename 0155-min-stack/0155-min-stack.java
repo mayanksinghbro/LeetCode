@@ -15,7 +15,12 @@ class MinStack {
             ministack.push(value);
         }
         else{
-            ministack.push(Math.min(value,ministack.peek()));
+            if(value<ministack.peek()){
+                ministack.push(value);
+            }
+            else{
+                ministack.push(ministack.peek());
+            }
         }
     }
     

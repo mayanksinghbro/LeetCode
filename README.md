@@ -28,11 +28,13 @@ My leetcode Progress
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mayanksinghbro/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mayanksinghbro/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mayanksinghbro/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mayanksinghbro/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mayanksinghbro/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mayanksinghbro/LeetCode/tree/master/0268-missing-number) |
 ## Sorting

@@ -24,4 +24,16 @@ My leetcode Progress
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mayanksinghbro/LeetCode/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mayanksinghbro/LeetCode/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mayanksinghbro/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mayanksinghbro/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
